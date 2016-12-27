@@ -13,6 +13,8 @@ Album partagé : https://goo.gl/photos/ABsqRPKDbBmg497AA
 ## License
 
 Modèles, documentation et fichiés associés partagés sous licence [**Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR)**](https://creativecommons.org/licenses/by-nc-sa/3.0/fr)
+
 Auteur : Frédéric "Couby" Coubard
+
 ![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)
 
