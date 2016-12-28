@@ -10,9 +10,9 @@ Il s'agit d'une pièce d'articulation entre le bras de commande que l'on utilise
 
 Album partagé : https://goo.gl/photos/ABsqRPKDbBmg497AA
 
-## License
+## Licence
 
-Modèles, documentation et fichiés associés partagés sous licence [**Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR)**](https://creativecommons.org/licenses/by-nc-sa/3.0/fr)
+Modèles, documentation et fichiers associés partagés sous licence [**Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR)**](https://creativecommons.org/licenses/by-nc-sa/3.0/fr)
 
 Auteur : Frédéric "Couby" Coubard
 
