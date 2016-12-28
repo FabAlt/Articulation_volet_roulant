@@ -12,9 +12,9 @@ Album partagé : https://goo.gl/photos/ABsqRPKDbBmg497AA
 
 ## Licence
 
-Modèles, documentation et fichiers associés partagés sous licence [**Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 3.0 France (CC BY-NC-SA 3.0 FR)**](https://creativecommons.org/licenses/by-nc-sa/3.0/fr)
+Modèles, documentation et fichiers associés partagés sous licence [**Creative Commons Attribution - Partage dans les Mêmes Conditions 2.0 France (CC BY-SA 2.0 FR)**](https://creativecommons.org/licenses/by-sa/2.0/fr)
 
 Auteur : Frédéric "Couby" Coubard
 
-![CC-BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/3.0/nl/88x31.png)
+![CC-BY-SA](https://i.creativecommons.org/l/by-sa/2.0/nl/88x31.png)
 
